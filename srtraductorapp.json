@@ -6,8 +6,8 @@
       "version": "v0.30",
       "estado": "emision",
       "precioTokens": 3,
-      "imagen": "https://pixeldrain.com/api/file/1KtQXkn5?download",
-      "imagen2": "https://pixeldrain.com/api/file/4QPAqpsL?download",
+      "imagen": "https://pixeldrain.com/api/file/1KtQXkn5",
+      "imagen2": "https://pixeldrain.com/api/file/4QPAqpsL",
       "descripcion": "Resumen:\nCuando una atracción prohibida deja de ser un pensamiento y se convierte en una decisión, todo cambia.\nBehind Closed Doors es una novela visual centrada en la tensión psicológica, la obsesión y las consecuencias de cruzar líneas que sabes que no deberías cruzar.\nLa historia se desarrolla a través de monólogos internos, diálogos cargados y frecuentes decisiones del jugador.",
       "linkDescarga": "https://pixeldrain.com/api/file/kB5HGg2H"
     },
@@ -17,10 +17,11 @@
       "version": "v0.27",
       "estado": "finalizado",
       "precioTokens": 5,
-      "imagen": "https://pixeldrain.com/api/file/QZwoqZ3Y?download",
-      "imagen2": "https://pixeldrain.com/api/file/Lf95rKjP?download",
+      "imagen": "https://pixeldrain.com/api/file/QZwoqZ3Y",
+      "imagen2": "https://pixeldrain.com/api/file/Lf95rKjP",
       "descripcion": "Resumen:\nTras la muerte de su madre, Hana Aochi entró en un profundo shock.\nSaigo, su hermano mayor, la ha cuidado desde entonces.\nQuiere que su hermana pequeña vuelva a la normalidad.",
       "linkDescarga": "https://pixeldrain.com/api/file/UEW5V28t"
     }
   ]
 }
+
