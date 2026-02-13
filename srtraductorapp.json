@@ -2,6 +2,17 @@
   "juegos": [
     {
       "id": "1",
+      "nombre": "Couples: Lustbound [v0.4.0]",
+      "version": "v0.30",
+      "estado": "emision",
+      "precioTokens": 3,
+      "imagen": "https://pixeldrain.com/api/file/RZURvdhF?download",
+      "imagen2": "https://pixeldrain.com/api/file/DfE9fBaj?download",
+      "descripcion": "Resumen:\nCuando una atracción prohibida deja de ser un pensamiento y se convierte en una decisión, todo cambia.\nBehind Closed Doors es una novela visual centrada en la tensión psicológica, la obsesión y las consecuencias de cruzar líneas que sabes que no deberías cruzar.\nLa historia se desarrolla a través de monólogos internos, diálogos cargados y frecuentes decisiones del jugador.",
+      "linkDescarga": "https://pixeldrain.com/api/file/kB5HGg2H?download"
+    },
+    {
+      "id": "1",
       "nombre": "Behind Closed Doors [v0.30 Demo]",
       "version": "v0.30",
       "estado": "emision",
@@ -57,5 +68,6 @@
       }
   ]
 }
+
 
 
