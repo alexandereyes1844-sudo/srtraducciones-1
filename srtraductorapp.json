@@ -1,7 +1,7 @@
 {
   "juegos": [
     {
-      "id": "1",
+      "id": "6",
       "nombre": "Couples: Lustbound [v0.4.0]",
       "version": "v0.4.0",
       "estado": "emision",
@@ -68,6 +68,7 @@
       }
   ]
 }
+
 
 
 
